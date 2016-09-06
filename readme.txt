@@ -1,5 +1,9 @@
 ﻿Var olan tasarım üzerine angularjs configuration geçirilerek hazırlanmış bir hızlı web site hazırlama aracıdır.
 
+/EasyWebData/Index.json
+
+içerisindeki verileri değiştirerek tüm sistemin veri değişimini sağlayabilirsiniz.
+
 Aşağıda verilen bilgiler tasarıma aittir.
 
 == For reporting issues or help please visit our support forums: ==
