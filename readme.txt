@@ -1,6 +1,6 @@
-Var olan tasarım üzerine angularjs configuration geçirilerek hazırlanmış bir hızlı web site hazırlama aracıdır.
+ï»¿Var olan tasarÄ±m Ã¼zerine angularjs configuration geÃ§irilerek hazÄ±rlanmÄ±ÅŸ bir hÄ±zlÄ± web site hazÄ±rlama aracÄ±dÄ±r.
 
-Aşağıda verilen bilgiler tasarıma aittir.
+AÅŸaÄŸÄ±da verilen bilgiler tasarÄ±ma aittir.
 
 == For reporting issues or help please visit our support forums: ==
 
