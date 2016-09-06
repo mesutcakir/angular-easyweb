@@ -1,3 +1,7 @@
+Var olan tasarým üzerine angularjs configuration geçirilerek hazýrlanmýþ bir hýzlý web site hazýrlama aracýdýr.
+
+Aþaðýda verilen bilgiler tasarýma aittir.
+
 == For reporting issues or help please visit our support forums: ==
 
     http://www.bootstrapocean.com/forums
