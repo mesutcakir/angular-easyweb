@@ -1,0 +1,188 @@
+﻿{
+  "Menus":[
+    {"OrderNumber":1,"Text":"Services","Url":"#services"},
+    {"OrderNumber":4,"Text":"Portfolio","Url":"#porfolio"},
+    {"OrderNumber":2,"Text":"Team","Url":"#team"},
+    {"OrderNumber":5,"Text":"Get a Quote","Url":"#quote"},
+    {"OrderNumber":3,"Text":"FAQ","Url":"#faq"}
+  ],
+  "Header":{
+    "Title":"WE ARE SPECIALIST IN ",
+    "TitleAttr":"WEB DESIGN,WEB DEVELOPMENT,PROMOTION",
+    "Text":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.    Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusmus.    Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+    "Button":{"Text":"Portfolio","Url":"#porfolio"}
+  },
+  "Services":[
+    {
+    "OrderNumber":1,
+    "Icon":"et-icon-picture icon-xl icon-carmine-pink animated zoomIn animDelay02",
+    "Title":"Web Design",
+    "Description":"<h1>A little</h1> feature description could go here. A little feature description."
+  },  {
+    "OrderNumber":3,
+    "Icon":"et-icon-linegraph icon-xl icon-carmine-pink animated zoomIn animDelay02",
+    "Title":"Promotion",
+    "Description":"A little feature description could go here. A little feature description."
+  },
+  {
+  "OrderNumber":2,
+  "Icon":"et-icon-gears icon-xl icon-carmine-pink animated zoomIn",
+  "Title":"Web Development",
+  "Description":"A little feature description could go here. A little feature description."
+}
+  ],
+  "Referances":[
+    {"OrderNumber":1, "ImageAlt":"ny-times","ImageSrc":"img/ny-times.png" },
+    {"OrderNumber":2, "ImageAlt":"forbes","ImageSrc":"img/forbes.png" },
+    {"OrderNumber":3, "ImageAlt":"ny-wired","ImageSrc":"img/wired.png" },
+    {"OrderNumber":4, "ImageAlt":"guardian","ImageSrc":"img/guardian.png" }
+  ],
+  "Portfolio":{
+    "Title":"Our Portfolio",
+    "Description":"Just a sample of what we do.",
+    "Items":[
+      {
+        "OrderNumber":1,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/dribbble-preview.png",
+        "LightBoxUrl":"img/dribbble-preview.png",
+        "Description":"Image Description"
+    },  {
+        "OrderNumber":2,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/player.png",
+        "LightBoxUrl":"img/player.png",
+        "Description":"Image Description"
+    }, {
+        "OrderNumber":3,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/productshot.png",
+        "LightBoxUrl":"img/productshot.png",
+        "Description":"Image Description"
+    }, {
+        "OrderNumber":4,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/food-widget.png",
+        "LightBoxUrl":"img/food-widget.png",
+        "Description":"Image Description"
+    }, {
+        "OrderNumber":5,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/freebie-app.png",
+        "LightBoxUrl":"img/freebie-app.png",
+        "Description":"Image Description"
+    },  {
+        "OrderNumber":6,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/dribbble-preview.png",
+        "LightBoxUrl":"img/dribbble-preview.png",
+        "Description":"Image Description"
+    },  {
+        "OrderNumber":7,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/player.png",
+        "LightBoxUrl":"img/player.png",
+        "Description":"Image Description"
+    }, {
+        "OrderNumber":8,
+        "ImageAlt":"portfolio",
+        "ImageSrc":"img/productshot.png",
+        "LightBoxUrl":"img/productshot.png",
+        "Description":"Image Description"
+    }
+    ]
+  },
+  "Team":{
+    "Title":"Meet our team",
+    "Description":"We are a group of skilled individuals.",
+    "Members":[
+      {
+        "OrderNumber":1,
+        "FullName":"John Doe",
+        "ImageSrc":"img/adolf-zika-872335_640.jpg",
+        "JobTitle":"Web Developer"
+    },
+    {
+      "OrderNumber":2,
+      "FullName":"Jane Doe",
+      "ImageSrc":"img/castro-1080873_640.jpg",
+      "JobTitle":"Designer"
+  },
+  {
+    "OrderNumber":3,
+    "FullName":"Susan Doe",
+    "ImageSrc":"img/woman-868571_640.jpg",
+    "JobTitle":"Marketing manager"
+},  {
+    "OrderNumber":4,
+    "FullName":"Jacson Doe",
+    "ImageSrc":"img/open-door-1156365_640.jpg",
+    "JobTitle":"CEO"
+}
+    ]
+  },
+  "Testimonials":[
+    {
+      "Active":true,
+        "OrderNumber":1,
+        "ImageSrc":"img/bramk.jpg",
+          "ImageAlt":"Image Alt",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+    },
+    {    "Active":false,
+        "OrderNumber":2,
+        "ImageSrc":"img/bramk.jpg",
+          "ImageAlt":"Image Alt",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+    },
+    {   "Active":false,
+        "OrderNumber":3,
+        "ImageSrc":"img/bramk.jpg",
+          "ImageAlt":"Image Alt",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+    },
+    {   "Active":false,
+        "OrderNumber":4,
+        "ImageSrc":"img/bramk.jpg",
+          "ImageAlt":"Image Alt",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+    },{   "Active":false,
+        "OrderNumber":5,
+        "ImageSrc":"img/bramk.jpg",
+          "ImageAlt":"Image Alt",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+    }
+  ],
+  "Quote":{
+    "Title":"Don&rsquo;t hesitate to contact us now...",
+    "Button":{
+      "Text":"GET A QUOTE NOW",
+      "Url":"index.html"
+    }
+  },
+  "FAQ":{
+    "Title":"FAQ",
+    "Description":"Get Answers: Frequently Asked Questions",
+    "TabList":[
+      {
+          "OrderNumber":1,
+          "Title":"This is a question #1",
+          "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+        },
+        {
+            "OrderNumber":2,
+            "Title":"This is a question #2",
+            "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+          },  {
+                "OrderNumber":3,
+                "Title":"This is a question #3",
+                "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nullaeum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus."
+              }
+    ]
+  },
+  "Social":{
+    "Twitter":"http://www.twitter.com/BootstrapOcean",
+      "Facebook":"http://www.Facebook.com/BootstrapOcean",
+      "Google":"https://plus.google.com/b/116513433102470788789/116513433102470788789/posts"
+  }
+}
