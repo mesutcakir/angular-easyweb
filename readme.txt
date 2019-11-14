@@ -4,7 +4,8 @@
 
 içerisindeki verileri değiştirerek tüm sistemin veri değişimini sağlayabilirsiniz.
 
-https://ibb.co/zFpxh7n
+"Örnek Görünüm
+https://ibb.co/zFpxh7n"
 
 
 
