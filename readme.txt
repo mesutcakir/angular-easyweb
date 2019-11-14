@@ -4,6 +4,12 @@
 
 içerisindeki verileri değiştirerek tüm sistemin veri değişimini sağlayabilirsiniz.
 
+https://ibb.co/zFpxh7n
+
+
+
+
+
 Aşağıda verilen bilgiler tasarıma aittir.
 
 == For reporting issues or help please visit our support forums: ==
